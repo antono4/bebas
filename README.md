@@ -1,2 +1,26 @@
-Last updated: 2026-08-13 20:09:51 WIB
-Last updated: 2026-08-13 20:11:08 WIB
+# bebas
+
+
+
+## 📋 Overview
+
+This repository contains **10 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-13 20:21:38 WIB*
